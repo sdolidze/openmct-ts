@@ -1,5 +1,7 @@
 # openmct-ts
 
+Experimental project to introduce TypeScript declaration files to [nasa/openmct](https://github.com/nasa/openmct)
+
 ![UML](/images/uml.jpg)
 
 ## How to generate UML
