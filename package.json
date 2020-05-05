@@ -1,0 +1,16 @@
+{
+  "name": "openmct-ts",
+  "description": "Experimental project to add type to nasa/openmct",
+  "version": "0.5.0",
+  "owner": "sdolidze",
+  "private": true,
+  "license": "PROPRIETARY",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "concat": "ls -1 | xargs cat | grep -v \"import {\""
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
